@@ -20,8 +20,8 @@ Karya Seni Aflah Rahmah Maulidiyah untuk Login Menggunakan Email, Gmail, dan Fac
 
 **5. Halaman Reset Password**
 
-<img src="https://user-images.githubusercontent.com/45988114/68312398-9117fa80-00e5-11ea-8c5f-c8aada534e11.png" width="150">  <img src="https://user-images.githubusercontent.com/45988114/68312418-99703580-00e5-11ea-9c2b-f1a41252839a.png" width="150">  
-<img src="(https://user-images.githubusercontent.com/45988114/68312437-a42aca80-00e5-11ea-9036-6e82527d83e8.png" width="150">
+<img src="https://user-images.githubusercontent.com/45988114/68312398-9117fa80-00e5-11ea-8c5f-c8aada534e11.png" width="150">  <img src="https://user-images.githubusercontent.com/45988114/68312418-99703580-00e5-11ea-9c2b-f1a41252839a.png" width="150">  <img src="https://user-images.githubusercontent.com/45988114/68313582-6333b580-00e7-11ea-873b-03f91b2058b1.png" width="150">
+
 
 **6. Halaman Login dengan Gmail**
 
