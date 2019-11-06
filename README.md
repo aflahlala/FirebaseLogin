@@ -4,23 +4,20 @@ Karya Seni Aflah Rahmah Maulidiyah untuk Login Menggunakan Email, Gmail, dan Fac
 **Capture Aplikasi**
 **1. Halaman Splash** 
 
-![1 splash screen](https://user-images.githubusercontent.com/45988114/68311881-cc65f980-00e4-11ea-98a0-172b29795ed4.png)
+<img src="https://user-images.githubusercontent.com/45988114/68311881-cc65f980-00e4-11ea-98a0-172b29795ed4.png" width="150">
 
 **2. Halaman Login**
 
-![2 login](https://user-images.githubusercontent.com/45988114/68311953-e6074100-00e4-11ea-94e2-42b9962b6675.png)
+<img src ="https://user-images.githubusercontent.com/45988114/68311953-e6074100-00e4-11ea-94e2-42b9962b6675.png" width="150">
 
 **3. Halaman Register Email dan Password**
 
-![3 register](https://user-images.githubusercontent.com/45988114/68312000-fb7c6b00-00e4-11ea-8348-001acc87e470.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312000-fb7c6b00-00e4-11ea-8348-001acc87e470.png" width="150">
 
 **4. Halaman Login dengan Email**
 
-![4 login email](https://user-images.githubusercontent.com/45988114/68312054-1222c200-00e5-11ea-9fc6-e6c57df015fc.png)
-
-**5. Halaman Sukses Login dengan Email**
-
-![5 sukses login](https://user-images.githubusercontent.com/45988114/68312135-2e266380-00e5-11ea-935e-ed420ab96edb.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312054-1222c200-00e5-11ea-9fc6-e6c57df015fc.png" width="150">
+<img src="https://user-images.githubusercontent.com/45988114/68312135-2e266380-00e5-11ea-935e-ed420ab96edb.png" width="150">
 
 **6. Halaman Reset Password**
 
