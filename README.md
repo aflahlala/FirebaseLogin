@@ -16,37 +16,24 @@ Karya Seni Aflah Rahmah Maulidiyah untuk Login Menggunakan Email, Gmail, dan Fac
 
 **4. Halaman Login dengan Email**
 
-<img src="https://user-images.githubusercontent.com/45988114/68312054-1222c200-00e5-11ea-9fc6-e6c57df015fc.png" width="150">
-<img src="https://user-images.githubusercontent.com/45988114/68312135-2e266380-00e5-11ea-935e-ed420ab96edb.png" width="150">
+<img src="https://user-images.githubusercontent.com/45988114/68312054-1222c200-00e5-11ea-9fc6-e6c57df015fc.png" width="150">  <img src="https://user-images.githubusercontent.com/45988114/68312135-2e266380-00e5-11ea-935e-ed420ab96edb.png" width="150">
 
-**6. Halaman Reset Password**
+**5. Halaman Reset Password**
 
-![6 reset password](https://user-images.githubusercontent.com/45988114/68312398-9117fa80-00e5-11ea-8c5f-c8aada534e11.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312398-9117fa80-00e5-11ea-8c5f-c8aada534e11.png" width="150">  <img src="https://user-images.githubusercontent.com/45988114/68312418-99703580-00e5-11ea-9c2b-f1a41252839a.png" width="150">  <img src="(https://user-images.githubusercontent.com/45988114/68312437-a42aca80-00e5-11ea-9036-6e82527d83e8.png" width="150">
 
-**7. Halaman Sukses Reset Password**
+**6. Halaman Login dengan Gmail**
 
-![7 sukses reset password](https://user-images.githubusercontent.com/45988114/68312418-99703580-00e5-11ea-9c2b-f1a41252839a.png)
-
-**8. Halaman Reset Password Output**
-
-![8 reset password output](https://user-images.githubusercontent.com/45988114/68312437-a42aca80-00e5-11ea-9036-6e82527d83e8.png)
-
-**9. Halaman Login dengan Gmail**
-
-![9 login gmail](https://user-images.githubusercontent.com/45988114/68312470-aee55f80-00e5-11ea-8d99-71a99db8df0a.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312470-aee55f80-00e5-11ea-8d99-71a99db8df0a.png" width="150">
 
 **10. Halaman Login dengan Facebook**
 
-![10 login fb](https://user-images.githubusercontent.com/45988114/68312493-b7d63100-00e5-11ea-9871-615487bcf3bd.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312493-b7d63100-00e5-11ea-9871-615487bcf3bd.png" width="150">
 
 **11. Halaman Home**
 
-![11 home](https://user-images.githubusercontent.com/45988114/68312518-be64a880-00e5-11ea-870e-ac6f6bae2052.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312518-be64a880-00e5-11ea-870e-ac6f6bae2052.png" width="150">
 
 **12. Halaman saat di klik button take Photo akan membuka aplikasi ke Android Camera**
 
-![12 camera](https://user-images.githubusercontent.com/45988114/68312543-ca506a80-00e5-11ea-86e9-c9045614abce.png)
-
-**13. Halaman Hasil saat setelah ambil foto**
-
-![13 hasil camera](https://user-images.githubusercontent.com/45988114/68312573-d63c2c80-00e5-11ea-954e-f7c6768ff1b3.png)
+<img src="https://user-images.githubusercontent.com/45988114/68312543-ca506a80-00e5-11ea-86e9-c9045614abce.png" width="150">  <img src="https://user-images.githubusercontent.com/45988114/68312573-d63c2c80-00e5-11ea-954e-f7c6768ff1b3.png" width="150">
