@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "580130114552",
+    "firebase_url": "https://modul4-4fb31.firebaseio.com",
+    "project_id": "modul4-4fb31",
+    "storage_bucket": "modul4-4fb31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580130114552:android:0eaec982cc108001b4640d",
+        "android_client_info": {
+          "package_name": "android.jplas.materi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580130114552-mvt7kql46dii33doutvrne5ofltlbiav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.jplas.materi",
+            "certificate_hash": "094988d89093396b3f095719f5805def834c3ba4"
+          }
+        },
+        {
+          "client_id": "580130114552-q5s0mb0krgb8v41mppnmtv8mh7ab8lck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqdRdYMP3TzD7Ne3_nwnEeg_A5X7bIis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580130114552-q5s0mb0krgb8v41mppnmtv8mh7ab8lck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580130114552:android:c88cb9219628271cb4640d",
+        "android_client_info": {
+          "package_name": "com.example.modul4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580130114552-q5s0mb0krgb8v41mppnmtv8mh7ab8lck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqdRdYMP3TzD7Ne3_nwnEeg_A5X7bIis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580130114552-q5s0mb0krgb8v41mppnmtv8mh7ab8lck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

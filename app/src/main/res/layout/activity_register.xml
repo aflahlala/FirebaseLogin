@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Register">
+
+    <ImageView
+        android:id="@+id/img2"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:src="@drawable/register"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        ></ImageView>
+
+    <TextView
+        android:id="@+id/tvUserNew"
+        android:layout_below="@id/img2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="7pt"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/tosca"
+        ></TextView>
+
+    <EditText
+        android:id="@+id/edtUsernameNew"
+        android:layout_below="@id/tvUserNew"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:textAlignment="center"
+        android:maxLength="20"
+        android:inputType="textEmailAddress"
+        android:background="@drawable/edittext_rounded"
+        ></EditText>
+
+    <TextView
+        android:id="@+id/tvPasswordNew"
+        android:layout_below="@id/edtUsernameNew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="7pt"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/tosca"
+        ></TextView>
+
+    <EditText
+        android:id="@+id/edtPasswordNew"
+        android:layout_below="@id/tvPasswordNew"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:textAlignment="center"
+        android:maxLength="8"
+        android:inputType="textPassword"
+        android:background="@drawable/edittext_rounded"
+        ></EditText>
+
+    <Button
+        android:id="@+id/btSignUpNew"
+        android:layout_below="@id/edtPasswordNew"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Sign Up"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/putih"
+        android:background="@drawable/btn_rounded"></Button>
+
+
+</RelativeLayout>

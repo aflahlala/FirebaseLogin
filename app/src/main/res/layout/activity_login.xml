@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:src="@drawable/login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        ></ImageView>
+
+
+
+    <TextView
+        android:id="@+id/tvUser"
+        android:layout_below="@id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="7pt"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/tosca"
+        ></TextView>
+
+    <EditText
+        android:id="@+id/edtUsername"
+        android:layout_below="@id/tvUser"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:maxLength="20"
+        android:textAlignment="center"
+        android:hint="username"
+        android:inputType="textEmailAddress"
+        android:background="@drawable/edittext_rounded"
+        ></EditText>
+
+    <TextView
+        android:id="@+id/tvPassword"
+        android:layout_below="@id/edtUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="7pt"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/tosca"
+        ></TextView>
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_below="@id/tvPassword"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:textAlignment="center"
+        android:maxLength="8"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:background="@drawable/edittext_rounded"
+        ></EditText>
+
+    <TextView
+        android:id="@+id/tvForgotPassword"
+        android:layout_below="@id/edtPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot Password?"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="170dp"
+        android:textSize="7pt"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/grey">
+    </TextView>
+
+    <Button
+        android:id="@+id/btLogin"
+        android:layout_below="@id/tvForgotPassword"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Login"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/putih"
+        android:background="@drawable/btn_rounded"></Button>
+
+    <TextView
+        android:id="@+id/or"
+        android:layout_below="@id/btLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Or"
+        android:textAlignment="center"
+        android:textSize="7pt"
+        android:layout_centerHorizontal="true">
+    </TextView>
+
+    <Button
+        android:id="@+id/btGmail"
+        android:layout_below="@id/or"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Login with Google"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/putih"
+        android:background="@drawable/btn_gmail">
+    </Button>
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/btFacebook"
+        android:layout_below="@id/btGmail"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        />
+
+
+    <TextView
+        android:id="@+id/tvSignUp"
+        android:layout_below="@id/btFacebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New User? Register"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="8pt"
+        android:fontFamily="@font/gothicb"
+        android:textColor="@color/hitam"
+        ></TextView>
+
+</RelativeLayout>

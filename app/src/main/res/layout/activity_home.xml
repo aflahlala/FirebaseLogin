@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home"
+    android:background="@color/background">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/selfie"></ImageView>
+
+    <ImageView
+        android:id="@+id/gbr"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"
+        ></ImageView>
+
+    <Button
+        android:id="@+id/signOut"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="280dp"
+        android:text="X"
+        android:textSize="10pt"
+        android:textColor="@color/putih"
+        android:background="@color/hitam"
+        ></Button>
+
+    <Button
+        android:id="@+id/choosepht"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_rounded"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:text="Take Photo"
+        android:textColor="@color/putih"
+        ></Button>
+
+</RelativeLayout>
